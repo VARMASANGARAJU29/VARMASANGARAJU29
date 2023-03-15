@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+  <img src="https://github-readme-stats.vercel.app/api?username=omidnikrah&show_icons=true&line_height=45&theme=dracula&include_all_commits=true" />
+  <img src="https://github-readme-stackoverflow.vercel.app/?userID=12913565&theme=dark" />
+
 <!--
 **VARMASANGARAJU29/VARMASANGARAJU29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
